@@ -37,6 +37,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/hkhali21/SimpleTweet/blob/master/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here's walkthrough of User opening the twitter app offline and see last loaded tweets:
+
+<img src='https://github.com/hkhali21/SimpleTweet/blob/master/walkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
